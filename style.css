@@ -1,0 +1,43 @@
+nav{
+    border-radius: 25px;
+}
+
+.Image{
+    width: 20%;
+    height: 20%;
+}
+
+.list{
+    display: flex;
+    list-style: none; 
+    gap: 5rem; 
+    justify-content: space-between; 
+    align-items: center;
+}
+
+ul{
+    font-size: 125%;
+    margin-left: 32rem;
+    margin-right: 1rem;
+}
+li{
+    color: white;
+}
+
+
+.nav{
+    display: flex;
+
+    background-color: black; 
+}
+
+.img{
+    height: 20%; 
+    width: 20%;
+    margin-left: 1rem;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
